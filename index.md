@@ -2,4 +2,4 @@
   
 - Lorem ipsum dolor sit amet . . .
 
-[JournalDeTrading](https://salimbenfarhat.github.io/tradingtools/journal)
+[JournalDeTrading](https://salimbenfarhat.github.io/tradingtools/journaldetrading.md)
