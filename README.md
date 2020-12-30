@@ -1,1 +1,1 @@
-# tradingtools.github.io
+# salimbenfarhat.github.io/tradingtools/
